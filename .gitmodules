@@ -1,0 +1,3 @@
+[submodule "learn-vault-secrets-operator"]
+	path = learn-vault-secrets-operator
+	url = https://github.com/hashicorp-education/learn-vault-secrets-operator.git
